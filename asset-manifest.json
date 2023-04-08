@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Clg-Virtual-Tour/static/css/main.96fff9e1.css",
+    "main.js": "/React-Clg-Virtual-Tour/static/js/main.1f0df282.js",
+    "static/js/227.6f7b113d.chunk.js": "/React-Clg-Virtual-Tour/static/js/227.6f7b113d.chunk.js",
+    "static/js/526.3062ddad.chunk.js": "/React-Clg-Virtual-Tour/static/js/526.3062ddad.chunk.js",
+    "static/js/232.a8c47675.chunk.js": "/React-Clg-Virtual-Tour/static/js/232.a8c47675.chunk.js",
+    "static/js/237.990770a1.chunk.js": "/React-Clg-Virtual-Tour/static/js/237.990770a1.chunk.js",
+    "static/media/Inter.ttf": "/React-Clg-Virtual-Tour/static/media/Inter.aadb65ac45347ff46699.ttf",
+    "static/media/controls.png": "/React-Clg-Virtual-Tour/static/media/controls.9e9f2256a34a5ebc6568.png",
+    "static/media/Gilroy-ExtraBold.otf": "/React-Clg-Virtual-Tour/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
+    "static/media/close-button.png": "/React-Clg-Virtual-Tour/static/media/close-button.25568d7abe8b7027ccb8.png",
+    "index.html": "/React-Clg-Virtual-Tour/index.html",
+    "main.96fff9e1.css.map": "/React-Clg-Virtual-Tour/static/css/main.96fff9e1.css.map",
+    "main.1f0df282.js.map": "/React-Clg-Virtual-Tour/static/js/main.1f0df282.js.map",
+    "227.6f7b113d.chunk.js.map": "/React-Clg-Virtual-Tour/static/js/227.6f7b113d.chunk.js.map",
+    "526.3062ddad.chunk.js.map": "/React-Clg-Virtual-Tour/static/js/526.3062ddad.chunk.js.map",
+    "232.a8c47675.chunk.js.map": "/React-Clg-Virtual-Tour/static/js/232.a8c47675.chunk.js.map",
+    "237.990770a1.chunk.js.map": "/React-Clg-Virtual-Tour/static/js/237.990770a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96fff9e1.css",
+    "static/js/main.1f0df282.js"
+  ]
+}
